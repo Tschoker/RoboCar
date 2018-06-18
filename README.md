@@ -2,7 +2,7 @@
 1st try to build a self-driving model car
 
 # Feature Brainstorm
-* Collission detection using Ultrasonic sensors
+* Collision detection using Ultrasonic sensors
 * remote control using IR and/or WiFi
 * NerfGun launcher
 * Area Mapping of driven path
